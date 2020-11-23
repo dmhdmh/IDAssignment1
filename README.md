@@ -1,4 +1,4 @@
-# Your Project's Name
+# Assignment 1
 
 One or two paragraphs providing an overview of your project. Tell us about your project.
 
